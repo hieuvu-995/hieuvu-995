@@ -22,7 +22,7 @@ me.say_hi()
 ```
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/MS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Windows-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
